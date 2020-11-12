@@ -1,15 +1,17 @@
 <resources>
     <string name="app_name">SegundoDesafio</string>
-    <string name="usuario">Usuario</string>
+
     <string name="confirma_password">Confirma Password</string>
     <string name="femenino">Femenino</string>
     <string name="masculino">Masculino</string>
     <string name="nombreusuario">NombreUsuario</string>
-    <string name="email">Email</string>
+
     <string name="password">Password</string>
     <string name="confirmar_password">Confirmar Password</string>
     <string name="registrarse">Registrarse</string>
     <string name="todo">TODO</string>
     <string name="registrese">Registrese</string>
     <string name="ingresar">Ingresar</string>
+    <string name="usuario">Usuario</string>
+    <string name="email">Email</string>
 </resources>
